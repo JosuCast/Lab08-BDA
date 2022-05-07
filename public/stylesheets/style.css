@@ -1,0 +1,92 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: skyblue;
+}
+#p{
+  width: 10%;
+}
+a {
+  color: #00B7FF;
+}
+#box{
+  background-color: #fff;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+#input{
+  width: 200px;
+  height: 90px;
+  color: #000;
+  background-color: #fff;
+  cursor: pointer;
+  border: 2px solid #4CAF50;
+  transition-duration: 0.4s;
+  border-radius: 5px;
+}
+#input:hover{
+  background-color: #4CAF50;
+  color: #fff;
+}
+#a{
+  margin: 30px;
+}
+
+#table{
+  margin: 0 auto;
+}
+#td{
+  width: 150px;
+  padding-top: 20px;
+}
+td{
+  width: 150px;
+  padding-top: 20px;
+}
+#div{
+  margin: 0 auto;
+  width: 45%;
+}
+#grabar{
+  width: 100px;
+  height: 50px;
+  color: #000;
+  background-color: #fff;
+  cursor: pointer;
+  border: 2px solid #4CAF50;
+  transition-duration: 0.4s;
+  border-radius: 5px;
+}
+#grabar:hover{
+  background-color: #4CAF50;
+  color: #fff;
+}
+#eliminar{
+  width: 100px;
+  height: 50px;
+  color: #000;
+  background-color: #fff;
+  cursor: pointer;
+  border: 2px solid #f44336;
+  transition-duration: 0.4s;
+  border-radius: 5px;
+}
+#eliminar:hover{
+  background-color: #f44336;
+  color: #fff;
+}
+#editar{
+  width: 100px;
+  height: 50px;
+  color: #000;
+  background-color: #fff;
+  cursor: pointer;
+  border: 2px solid #008CBA;
+  transition-duration: 0.4s;
+  border-radius: 5px;
+}
+#editar:hover{
+  background-color: #008CBA;
+  color: #fff;
+}
